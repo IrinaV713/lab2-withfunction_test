@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	lab2 "github.com/CoSE-labs/lab2"
+	lab2 "github.com/IrinaV713/lab2-withfunction_test"
 )
 
 var (
