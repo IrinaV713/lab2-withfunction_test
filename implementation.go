@@ -2,7 +2,6 @@ package lab2
 
 import (
 	"errors"
-	"fmt"
 	"strings"
 )
 
