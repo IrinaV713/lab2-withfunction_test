@@ -79,7 +79,7 @@ func stackToString(arg Stack) string {
 	return modified
 }
 
-func postfixToPrefix(input string) (string, error) {
+func PostfixToPrefix(input string) (string, error) {
 	return convert(input)
 }
 
